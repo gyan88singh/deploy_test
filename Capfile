@@ -22,7 +22,7 @@ require 'capistrano/rbenv'
 
 require 'capistrano/bundler'
 require 'capistrano/rails'
-#require 'capistrano/passenger'
+require 'capistrano/passenger'
 
 
 # require 'capistrano/rvm'
