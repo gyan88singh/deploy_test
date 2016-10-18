@@ -1,5 +1,5 @@
 # config valid only for current version of Capistrano
-lock '3.4.0'
+lock '3.4.1'
 
 set :application, 'deploy_test'
 set :repo_url, 'git remote add origin https://github.com/gyan88singh/deploy_test.git'
